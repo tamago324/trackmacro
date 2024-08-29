@@ -15,6 +15,7 @@
     * Chocソケットを使う
         * そのためにトッププレートとボトムプレートをスペーサーとねじで止める構造にする
     * ボールケース
+        * GameBall のボールを使ったケースを作成する (38mm)
         * 使い回せるような形状にする
         * ベアリングを使う
 * [ファームウェア](https://github.com/tamago324/keyboard-firmwares/tree/master/keyboards/trackmacro)
