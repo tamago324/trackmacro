@@ -2,6 +2,7 @@
 
 ![](./assets/pic1.JPEG)
 
+> NOTE: KiCad 7 を使用しています
 
 * [monkeypad/pmw3360-breakout](https://github.com/monkeypad/pmw3360-breakout) を使用したトラックボール付きのマクロパッド
 * キーボードに載せるお試しで作ったもので、以下の要件を満たすものを作った
@@ -16,6 +17,7 @@
     * ボールケース
         * 使い回せるような形状にする
         * ベアリングを使う
+
 
 ## 使用している部品
 
