@@ -1,5 +1,8 @@
 # trackmacro
 
+![](./assets/pic1.JPEG)
+
+
 * [monkeypad/pmw3360-breakout](https://github.com/monkeypad/pmw3360-breakout) を使用したトラックボール付きのマクロパッド
 * キーボードに載せるお試しで作ったもので、以下の要件を満たすものを作った
     * monkeypad/pmw3360-breakout を使う
